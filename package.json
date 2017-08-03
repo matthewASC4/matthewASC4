@@ -1,0 +1,19 @@
+{
+  "name": "matt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "matt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewASC4/matthewASC4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewASC4/matthewASC4/issues"
+  },
+  "homepage": "https://github.com/matthewASC4/matthewASC4#readme"
+}
